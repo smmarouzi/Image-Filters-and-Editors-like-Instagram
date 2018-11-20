@@ -1,6 +1,6 @@
 #include "..\include\GloServise.h"
 
-/*
+/**/
 int main()
 {
 	GloService gs;
@@ -19,4 +19,4 @@ int main()
 	gs.ludwig("../GLoFilters/data/giftbag29.jpg", 0.2, "../GLoFilters/result2");
 
 	return 0;
-}*/
+}
